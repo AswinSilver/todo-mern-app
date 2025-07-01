@@ -1,0 +1,12 @@
+# node_modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# MacOS & system junk
+.DS_Store
+
+# build files
+client/build
